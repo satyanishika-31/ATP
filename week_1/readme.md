@@ -39,6 +39,6 @@ Calculates the sum of all numbers in an array.
 
 
 
-R
+
 
 
